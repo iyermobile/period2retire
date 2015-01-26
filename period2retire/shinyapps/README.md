@@ -1,7 +1,7 @@
 #
 # Idea and original code by Pierre Chretien
 # Small updates by Michael Kapler 
-# More modifications by iyermobile
+# More mods by iyermobile
 #
 
 # Shiny app simulating cash-flow scenarios during retirement
